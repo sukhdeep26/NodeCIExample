@@ -1,0 +1,18 @@
+{
+    "name": "your-project-name",
+    "version": "1.0.0",
+    "description": "Your project description",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js",
+        "test": "mocha"
+    },
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.17.1",
+        "chai": "^4.3.4",
+        "mocha": "^9.1.3"
+    }
+}
+
